@@ -6,6 +6,8 @@
 
 ## 🚀 Live Demo
 
+DEMO : https://www.loom.com/share/5cc1dbd33277484189decf2fcfa5bf10
+
 paste your transcript → get scored → download your report
 
 <img width="960" height="420" alt="KPI" src="https://github.com/user-attachments/assets/1b998fbe-0b10-457f-9957-e0002123bddf" />
